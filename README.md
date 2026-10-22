@@ -61,7 +61,7 @@ The dashboard provides insights into:
 
 The hotel booking dataset was downloaded from Kaggle and used for data analysis and dashboard creation.
 
-**Dataset Source:** [Kaggle](https://www.kaggle.com/)
+**Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/mojtaba142/hotel-booking)
 
 ## 👨‍💻 Author
 
