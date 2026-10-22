@@ -63,8 +63,3 @@ The hotel booking dataset was downloaded from Kaggle and used for data analysis 
 
 **Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/mojtaba142/hotel-booking)
 
-## 👨‍💻 Author
-
-**Premkumar Kewat**
-
-GitHub: [Premkumar50](https://github.com/Premkumar50)
